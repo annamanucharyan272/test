@@ -1,0 +1,7 @@
+nothing to commit (create/copy files and use git add to track)
+c2r9s5% clear
+c2r9s5% echo Z > z
+c2r9s5% cat z
+Z
+c2r9s5%
+
